@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/eres_unesqueleto_conesquizofrenia.ogg-14e54959e83194711ef5867a6da337eb.oggstr"
+
+[deps]
+
+source_file="res://scenes/MainMenu/assets/sfx/eres_unesqueleto_conesquizofrenia.ogg"
+dest_files=[ "res://.import/eres_unesqueleto_conesquizofrenia.ogg-14e54959e83194711ef5867a6da337eb.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

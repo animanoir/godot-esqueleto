@@ -1,0 +1,16 @@
+[gd_scene load_steps=4 format=2]
+
+[ext_resource path="res://scenes/Player.tscn" type="PackedScene" id=2]
+[ext_resource path="res://scenes/Main.gd" type="Script" id=3]
+
+[sub_resource type="CapsuleShape2D" id=13]
+
+[node name="Main" type="Node2D"]
+script = ExtResource( 3 )
+
+[node name="Player" parent="." instance=ExtResource( 2 )]
+position = Vector2( 128, 298 )
+smoothing = 0.1
+
+[node name="CollisionShape2D2" type="CollisionShape2D" parent="Player"]
+shape = SubResource( 13 )

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/v1.ogg-9e0250335543bff52089b68d40b35c13.oggstr"
+
+[deps]
+
+source_file="res://scenes/Story/assets/sfx/v1.ogg"
+dest_files=[ "res://.import/v1.ogg-9e0250335543bff52089b68d40b35c13.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
